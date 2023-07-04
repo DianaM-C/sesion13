@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "257264372443",
+    "project_id": "sesi-3e0d9",
+    "storage_bucket": "sesi-3e0d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257264372443:android:0ea91255a73d90efc39afe",
+        "android_client_info": {
+          "package_name": "com.grupocuatro.clasesesion13"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257264372443-pb6bvqi0idm88bimv3kcln8a26b8j4cg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsJTxxNmkxSoGROCiyfUXX-0s52kP3dXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257264372443-pb6bvqi0idm88bimv3kcln8a26b8j4cg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
